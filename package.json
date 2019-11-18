@@ -2,7 +2,7 @@
   "name": "clopper",
   "version": "1.0.0",
   "description": "Week-09",
-  "main": "index.js",
+  "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
